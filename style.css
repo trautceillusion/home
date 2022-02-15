@@ -1,0 +1,18 @@
+.info ul li{
+    display: inline-block  ;
+    text-decoration: none;
+    background: url("../home/img/pic1.png") 0 0 no-repeat;
+    padding-left: 30px;
+}
+.first{
+    
+}
+.second{
+    margin-left: 25px;
+}
+
+.block1 ul li{ 
+    list-style: none;    
+    background: url(../home/img/pic3.png) 0 0 no-repeat;
+    padding-left: 25px;
+}
